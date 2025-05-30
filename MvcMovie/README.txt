@@ -66,5 +66,5 @@ the app is running perfectly
 
 1348
 Created the azure account and published the application 
+I got the Error 500.30 - ASP.NET Core app failed to start
 https://mvcmovieroshan-geeshjb4hyhpd6hw.canadacentral-01.azurewebsites.net/
-I got the error (HTTP Error 500.30 - ASP.NET Core app failed to start)
