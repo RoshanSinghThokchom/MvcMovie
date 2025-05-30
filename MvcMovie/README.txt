@@ -49,7 +49,10 @@ Test what we did last week and see what we should do for the next step
 2025-05-20 1015
 20250520141630_InitialCreate
 
-2025-05-26
+2025-05-26 1012
+Test what we did last week
+125
+Push to the github
 
-
-
+2025-05-27 1011
+Run the app
